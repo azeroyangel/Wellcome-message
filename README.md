@@ -2,7 +2,7 @@
 
 Крутящийся 3d текст 
 
-![im3agыыe]([https://github.com/user-attachments/assets/d7928fd9-63f5-4ced-b8e5-4c749cbd8355](https://media.discordapp.net/attachments/1187022410751430716/1212049316953194537/gmod_2zNxYqBZkF.gif?ex=684edde3&is=684d8c63&hm=83a5eaa7d48ef9622c57443f4f20143c103c5cb8f95eaec4034f41d71eb61e29&)) 
+https://media.discordapp.net/attachments/1187022410751430716/1212049316953194537/gmod_2zNxYqBZkF.gif?ex=684edde3&is=684d8c63&hm=83a5eaa7d48ef9622c57443f4f20143c103c5cb8f95eaec4034f41d71eb61e29&
 
 ## ✨ Особенности
 - 💙 Команда для копирования координат
